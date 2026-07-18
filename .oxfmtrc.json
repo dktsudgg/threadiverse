@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "ignorePatterns": [
+    "**/*.md",
+    ".next/**",
+    "build/**",
+    "coverage/**",
+    "dist/**",
+    "node_modules/**"
+  ],
+  "sortPackageJson": false,
+  "tabWidth": 2,
+  "useTabs": false
+}
